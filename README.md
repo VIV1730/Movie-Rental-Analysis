@@ -8,7 +8,8 @@ The dashboard focus on Five areas:
  3. staff and stores
  4. demographic
  5. categories and language
-    While leveraging date from DVD rental store database. The dashbooard offers a interactive visualization and analytical support to data drivrn decision making and strategic planning.
+
+While leveraging date from DVD rental store database. The dashbooard offers a interactive visualization and analytical support to data drivrn decision making and strategic planning.
     
     
 
