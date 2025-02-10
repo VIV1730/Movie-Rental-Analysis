@@ -80,6 +80,8 @@ While leveraging date from DVD rental store database. The dashbooard offers an i
 
 ![image](https://github.com/user-attachments/assets/eeb8e184-0603-4f36-ade6-39baf51a875a)
 
+## SQL Queries
+![SQL 1](https://github.com/user-attachments/assets/3babf404-1b1c-42a8-9059-93425ea99ff8)
 
 ## Conclusion
 The DVD Rentals Store Dashboard is a comprehensive tool designed to provide valuable insights into various aspects of the rental store business. By focusing on five key areas - customers and sales, inventory and films, staff and stores, demographics, and categories and language.The dashboard leverages data from the DVD rental store database to offer interactive visualizations and analytical support. This enables data-driven decision-making and strategic planning, ultimately enhancing business performance and customer satisfaction. The dashboard's ability to solve critical problem statements and provide a holistic view of the business makes it an essential asset for the rental store's success.
