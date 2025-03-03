@@ -9,7 +9,7 @@ The dashboard focus on Five areas:
  4. demographic
  5. categories and language
 
-While leveraging date from DVD rental store database. The dashbooard offers an interactive visualization and analytical support to data driven decision making and strategic planning.
+While leveraging data from DVD rental store database. The dashboard offers an interactive visualization and analytical support to data driven decision making and strategic planning.
 
 ## Problem Statements
 1) This project solves the following problem statementsHow does the sales revenue vary by month?
